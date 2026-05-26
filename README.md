@@ -1,7 +1,7 @@
 # AEE: Limpieza de Primavera — Refactorización de Código Legado
 
-**Módulo:** Entornos de Desarrollo (EDD) | DAM 
-**Centro:** Campus Cámara de Comercio Sevilla 
+**Módulo:** Entornos de Desarrollo (EDD) | DAM  
+**Centro:** Campus Cámara de Comercio Sevilla  
 **Equipo:** Álvaro López de San Román | Santiago González
  
 ---
